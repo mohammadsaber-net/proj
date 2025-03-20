@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.first,.second{
+    color:white;
+    background-color: red;
+    width: fit-content;
+    padding: 10px 20px;
+    margin-left:auto ;
+    margin-right:auto ;
+}
+.second{
+    margin-top: 20px;
+}
